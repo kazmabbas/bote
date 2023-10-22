@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 # ها ابن بلاعت الخصوه شسوي هناه جميع الحقوق بسم @EEc5e
 
-Tok = "6587063774:AAFRIeUZz93Ikak_frqCUw9oV6is1WrkEzU"
+Tok = "6551827379:AAHu36FLn86BMO3vs73kkPQMSAkj_5EHPGw"
 L7N = telebot.TeleBot(Tok)
 
 @L7N.message_handler(commands=['start'])
